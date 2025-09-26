@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there! 👋 I’m Serg Markovich
 
-<!--
-**serg-markovich/serg-markovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer & Web Solutions Architect (Transitioning in Germany)
 
-Here are some ideas to get you started:
+12+ years building, automating, and managing custom web platforms, server infrastructure, and cloud solutions. Now focused on modern DevOps, cloud automation and CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Key skills & technologies
+
+- Linux • Bash • Python
+- Docker • Kubernetes
+- GitHub Actions • Jenkins
+- Terraform • Ansible
+- Prometheus • Grafana • ELK
+- Cloud: AWS • GCP • Azure
+- Web: PHP • JS • WordPress
+
+---
+
+### 📂 Featured projects
+
+- Pet projects in DevOps, automation, cloud and CI/CD — coming soon!
+- Working on Docker-based web app stack and infrastructure as code templates.
+- Planning tutorials and hands-on labs for monitoring, deploy automation, and career transition.
+- Always open to collaboration and feedback. Feel free to connect!
+
+*Check back for new updates and open-source contributions.*
+
+---
+
+### 📚 Learning & sharing
+
+- Weekly progress, technical notes, and DevOps learnings — see [my LinkedIn](https://www.linkedin.com/in/serg-markovich/)
+- Open source contributions, hands-on tutorials, and career documentation
+
+---
+
+### 📬 Contact & collaboration
+
+- LinkedIn: [serg-markovich](https://www.linkedin.com/in/serg-markovich/)
+- Email: your.email@example.com
+
+---
+
+*Currently open for DevOps, Platform Engineer, or Cloud Automation roles in Germany/EU. Always learning and sharing in public!*
