@@ -39,7 +39,7 @@
 ### 📬 Contact & collaboration
 
 - LinkedIn: [serg-markovich](https://www.linkedin.com/in/serg-markovich/)
-- Email: [Personal Outlook](mailto:serhii_markovych@outlook.com) 
+- Email: [me@serg-markovich.de](mailto:me@serg-markovich.de) 
 
 ---
 
