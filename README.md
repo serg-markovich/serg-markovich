@@ -1,46 +1,43 @@
-# Hi there! 👋 I’m Serg Markovich
+# Serg Markovich
 
-## 🚀 DevOps Engineer & Web Solutions Architect (Transitioning in Germany)
+## DevOps & Platform Engineer
 
-12+ years building, automating, and managing custom web platforms, server infrastructure, and cloud solutions. Now focused on modern DevOps, cloud automation and CI/CD.
-
----
-
-### ⚡ Key skills & technologies
-
-- Linux • Bash • Python
-- Docker • Kubernetes
-- GitHub Actions • Jenkins
-- Terraform • Ansible
-- Prometheus • Grafana • ELK
-- Cloud: AWS • GCP • Azure
-- Web: PHP • JS • WordPress
+Platform and DevOps Engineer with over 12 years of experience in systems architecture, infrastructure management, and building custom web platforms. Currently focused on cloud automation, CI/CD pipelines, and designing resilient, sovereign IT environments. Based in the Stuttgart Area, Germany.
 
 ---
 
-### 📂 Featured projects
+### Core Competencies & Technology Stack
 
-- Pet projects in DevOps, automation, cloud and CI/CD — coming soon!
-- Working on Docker-based web app stack and infrastructure as code templates.
-- Planning tutorials and hands-on labs for monitoring, deploy automation, and career transition.
-- Always open to collaboration and feedback. Feel free to connect!
-
-*Check back for new updates and open-source contributions.*
-
----
-
-### 📚 Learning & sharing
-
-- Weekly progress, technical notes, and DevOps learnings — see [my LinkedIn](https://www.linkedin.com/in/serg-markovich/)
-- Open source contributions, hands-on tutorials, and career documentation
+* **Infrastructure & Cloud:** Azure, AWS, GCP, Terraform, Ansible
+* **Containers & Orchestration:** Docker, Kubernetes
+* **CI/CD & Automation:** GitHub Actions, Jenkins, Bash, Python
+* **Monitoring & Observability:** Prometheus, Grafana, ELK Stack
+* **OS & Core:** Linux (Ubuntu), Networking, Web (PHP, JS)
 
 ---
 
-### 📬 Contact & collaboration
+### Current Focus & Projects
 
-- LinkedIn: [serg-markovich](https://www.linkedin.com/in/serg-markovich/)
-- Email: [me@serg-markovich.de](mailto:me@serg-markovich.de) 
+* Preparing for Microsoft Certified: Azure Administrator Associate (AZ-104).
+* Designing and maintaining secure, self-hosted sovereign infrastructure and local LLM stacks.
+* Developing Infrastructure as Code (IaC) templates and Docker-based web application stacks.
+* Documenting career transitions, hands-on labs for deployment automation, and monitoring solutions.
 
 ---
 
-*Currently open for DevOps, Platform Engineer, or Cloud Automation roles in Germany/EU. Always learning and sharing in public!*
+### Contact & Digital Business Card
+
+<div align="center">
+  <video src="b_e_b_bmp_.mp4" width="250" autoplay loop muted playsinline></video>
+  <br>
+  <i>Scan to connect or visit my personal site.</i>
+</div>
+
+<br>
+
+* **Website:** [serg-markovich.de](https://serg-markovich.de/)
+* **LinkedIn:** [serg-markovich](https://www.linkedin.com/in/serg-markovich/)
+* **Email:** [me@serg-markovich.de](mailto:me@serg-markovich.de)
+
+---
+*Currently open for DevOps, Platform Engineer, or Cloud Automation roles in Germany/EU.*
