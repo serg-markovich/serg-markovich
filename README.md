@@ -28,7 +28,7 @@ Platform and DevOps Engineer with over 12 years of experience in systems archite
 ### Contact & Digital Business Card
 
 <div align="center">
-  <video src="b_e_b_bmp_.mp4" width="250" autoplay loop muted playsinline></video>
+  <video src="https://github.com/serg-markovich/serg-markovich/raw/main/b_e_b_bmp_.mp4" width="250" autoplay loop muted playsinline></video>
   <br>
   <i>Scan to connect or visit my personal site.</i>
 </div>
